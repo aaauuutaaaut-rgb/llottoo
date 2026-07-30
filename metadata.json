@@ -1,0 +1,6 @@
+{
+  "name": "NO SmiIee LOTTO",
+  "description": "ระบบแทงหวยออนไลน์ NO SmiIee LOTTO รองรับหวยรัฐบาล หวยต่างประเทศ หวยหุ้น และ US Powerball พร้อมระบบจัดการหลังบ้าน Admin แบบครบวงจร",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
